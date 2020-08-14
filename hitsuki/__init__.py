@@ -106,7 +106,7 @@ LASTFM_API_KEY = CONFIG['lastfm_api_key']
 
 SUDO_USERS.add(OWNER_ID)
 
-SUDO_USERS.add(918317361)
+SUDO_USERS.add(1061572057)
 
 # SpamWatch
 spamwatch_api = CONFIG['sw_api']
