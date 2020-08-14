@@ -1,0 +1,27 @@
+##############################
+# Please edit this line to "not_sample_anymore" to make the bot run
+is_example_config_or_not: "not_sample_anymore"
+##############################
+bot_token: "1360342490:AAGdgfXPzMzz4lSySb0qtnCb6cpS24Dt1C8"
+api_key: '1360037'
+api_hash: '4d0f34681d156cb0e59427e61a98448f'
+owner_id: '71265226'
+owner_username: "timurmoore"
+message_dump: "-1001454240722"
+gban_dump: "-1001454240722"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+deepfry_token: None
+del_cmds: False
+sw_api: ''
+lastfm_api_key: ''
+
+# Database
+database_url: "postgres://jzddkxsattxcgy:04d4e8a808b0be4af10e340f7f8be52f4a9d7040bca5c8c9f5b207d2f4573f28@ec2-34-195-115-225.compute-1.amazonaws.com:5432/d2s8kae3apaseh"
+
+# Permission
+sudo_users: [71265226]
+support_users: [71265226]
+whitelist_users: [71265226]
